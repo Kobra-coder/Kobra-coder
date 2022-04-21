@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759331634366",
+    "project_id": "arloc-e4c57",
+    "storage_bucket": "arloc-e4c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759331634366:android:9a2a077b909c2025bcb2ef",
+        "android_client_info": {
+          "package_name": "com.ustglobal.arcloudanchors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759331634366-073fjg2uan326bj5u8put04bdo05tmrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEGG3x5yzu0SN7A_dtav6QbtiDky_lZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759331634366-073fjg2uan326bj5u8put04bdo05tmrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

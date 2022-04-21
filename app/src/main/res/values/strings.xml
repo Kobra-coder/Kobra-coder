@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">ENU</string>
+    <string name="title_activity_laucher_activiy">LaucherActiviy</string>
+    <string name="API_KEY">AIzaSyCglByn6EPNDPPpwKWV_4yYmYSOecATwXg</string>
+    <string name="us">О приложении</string>
+    <string name="map">Наружная навигация</string>
+    <string name="nav">Внутренняя навигация</string>
+    <string name="guide">Гид пользователя</string>
+    <string name="us_content">Я Нургазиев Мейирхан, студент группы ВТиПО 49/1 разработал этот проект.
+        Проект предназначен для навигации по университету с помощью дополненной реальности,
+        также содержит карту-путеводитель с использованием дополненной реальности.
+        Основной целью данной работы является разработка нового метода разработки навигационной системы внутреннего помещения, такие как торговый центры, музеи и т.п посредством дополненной реальности.
+    </string>
+    <string name="us_content_kz">Мен Нұрғазиев Мейірхан, ВТИПО 49/1 тобының студентімін, бұл жобаны құрастырдым.
+        Бұл жоба толықтырылған шындықты пайдаланып университетте шарлауға арналған.
+        Жобада сонымен қатар толықтырылған шындықты пайдаланатын карта нұсқаулығы бар.
+        Бұл жұмыстың негізгі мақсаты - толықтырылған шындық арқылы сауда орталықтары, мұражайлар және т.б. сияқты жабық навигациялық жүйені дамытудың жаңа әдісін әзірлеу.</string>
+
+    <string name="us_kz">Жоба туралы</string>
+    <string name="indo">
+        Этап 1: Выберите раздел «Внутренняя навигация» в главном меню.
+        Этап 2:Вы увидите список аудиторий, выберите аудиторию, которую хотите посетить.
+        Этап 3: Если ваше устройство поддерживает дополненную реальность, вам будет предложено предоставить доступ к камере. Нажмите Разрешить
+        Этап 4: Устройства создают дополнительную реальность и направляют</string>
+    <string name="outdo">
+    Этап 1: Выберите раздел «Наружная навигация» в главном меню.
+    Этап 2:Вы увидите список Карт.Этап 3:Выберите один из них </string>
+    <string name="map_kz">Сыртқы навигация</string>
+    <string name="nav_kz">Ішкі навигация</string>
+    <string name="guide_kz">Пайдаланушы нұсқаулығы</string>
+<string name="dean">Сеилов Шахмаран Журсинбекович.
+    Заведующий кафедрой.
+    Ученая степень и звание, научная школа:
+Кандидат технических наук, 1990г.
+Доктор экономических наук, 2006 г., РФ
+Академик Международной Академии Связи, 2004 г.
+Контактные данные:
+seilov@mail.ru
+Моб.: +7701 111 5299
+Раб.: +7 (7172)
+709500, вн. 33-403
+</string>
+    <string name="lekzal">Лекциоонный зал</string>
+    <string name="kaferdr">На факультете функционируют 6 кафедр:
+    Кафедра Компьютерной и программной инженерии
+Кафедра Информатики
+Кафедра «Информационная безопасность»
+Кафедра Информационных систем
+Кафедра Системного анализа и управления
+Кафедра Технологии искусственного интеллекта</string>
+    <string name="kaf">Кафедра</string>
+    <string name="lek205">Лек 221</string>
+    <string name="lek211">Лек 222</string>
+    <string name="lab215">Каб 215</string>
+    <string name="dec">Деканат</string>
+    <string name="lab305">Каб 305</string>
+    <string name="lab310">Каб 310</string>
+    <string name="lab315">Каб 315</string>
+    <string name="lab302">Каб 302</string>
+    <string name="lab405">Каб 405</string>
+    <string name="lab410">Каб 410</string>
+    <string name="lab415">Каб 415</string>
+    <string name="lab402">Каб 402</string>
+    <string name="lab505">Каб 505</string>
+    <string name="lab510">Каб 510</string>
+    <string name="lab515">Каб 515</string>
+    <string name="lab502">Каб 502</string>
+    <string name="lab605">Каб 605</string>
+    <string name="lab610">Каб 610</string>
+    <string name="lab615">Каб 615</string>
+    <string name="lab602">Каб 602</string>
+    <string name="lab705">Каб 705</string>
+    <string name="lab710">Каб 710</string>
+    <string name="lab715">Каб 715</string>
+    <string name="lab702">Каб 702</string>
+    <string name="_7">7 этаж</string>
+    <string name="_6">6 этаж</string>
+    <string name="_5">5 этаж</string>
+    <string name="_4">4 этаж</string>
+    <string name="traffic">Трафик</string>
+    <string name="my_location">Мое местоположение</string>
+    <string name="_3">3 этаж</string>
+    <string name="basic_map_demo_label">Базовая карта</string>
+    <string name="basic_map_demo_description">Запускает карту.</string>
+    <string name="auditoria">Выберите аудиторию</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoidG9udWtvayIsImEiOiJja3pxd242MTUzdmd0MnZueWdobTZwM2ZoIn0.iNP70u2FKMmVb-Q6zn3L0Q</string>
+    <string name="vision_not_supported_message">Vision SDK does not support this device yet, check more details at &lt;a href=\"https://docs.mapbox.com/android/vision/overview/#requirements\">docs.mapbox.com&lt;/a></string>
+    <string name="vision_not_supported_title">Device is not supported</string>
+    <string name="default_renderer">Значение по умолчанию</string>
+    <string name="map_renderer_spinner_label">Выберите предпочтительный способ отображения карты</string>
+    <string name="legacy">Наследие</string>
+
+    <string name="info">Info</string>
+    <string name="basic_info">info</string>
+</resources>
+
